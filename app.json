@@ -13,11 +13,11 @@
   "env": {
     "LANG": "en_US.UTF-8",
     "BOT_NAME": "",
-    "SOURCE_USERNAME": "",
-    "CONSUMER_KEY": "",
-    "CONSUMER_SECRET": "",
-    "ACCESS_TOKEN": "",
-    "ACCESS_TOKEN_SECRET": "",
+    "SOURCE_USERNAME": "champagnepupi",
+    "CONSUMER_KEY": "dqezEBow5UzuOUmK0nLUumnez",
+    "CONSUMER_SECRET": "mGkRpuQcdAr4bqcWREMy00booXuQ5hE5MPleKkPxJsyCYjyVO5",
+    "ACCESS_TOKEN": "2774551855-slD2nenmwbx1KlYKUWdoJxpptRJVLXdRfka6Yx9",
+    "ACCESS_TOKEN_SECRET": "2MeYEQKiA9O2KSLzMP3CzH1ufCQrhYGnBUhc6q7YrY7yU",
     "TWEET_INTERVAL": "2h",
     "TWEET_CHANCE": "0.8",
     "BLACKLIST": {
